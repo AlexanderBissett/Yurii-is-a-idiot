@@ -200,9 +200,11 @@ def lana():
         # Loop that goes through the options for the possible locations of desktop.
         for options in desktops:
             desktop_mv(options)
-
+	
+	# Calls the Decypter module.
         decrypter()
 
+	# Calls the Cleaner moudle.
         cleaner()
 
         # Declares THE END OF TIME.
