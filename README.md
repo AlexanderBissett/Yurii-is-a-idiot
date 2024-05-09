@@ -1,4 +1,4 @@
-Insomnia project.
+#Insomnia project.
 
 This is a full ransomware attack project that targets Windows 10 & 11
 
@@ -12,15 +12,11 @@ OTTER (Operation Terminate Threats, Erase Ransomware)
 
 You will need several things to execute this attack:
 
-    -   Server with public IP, at least one. (Runing on debian.)            
-    -   Rubber ducky or Raspberry Pi Pico turned in to a Rubber Ducky.
-    -   3D printer
-    -   
+-   Server with public IP, at least one. (Runing on debian.)            
+-   Rubber ducky or Raspberry Pi Pico turned in to a Rubber Ducky.
+-   3D printer
+-   
 
-
-
-
-You will need: Rubber ducky or Raspberry pico turned in tu rubber ducky.
 
 You will need python 3 and the followring python modules:
 
