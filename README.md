@@ -15,11 +15,12 @@
 
 ### You will need several things to execute this attack:
 
--   Server with public IP, at least one. (Runing on debian.)            
--   Rubber ducky or Raspberry Pi Pico turned in to a Rubber Ducky.
--   3D printer.
+-   Server with public IP, at least one. (Runing on debian.)        [VPS (I use this one, you can use others)](https://pq.hosting/en/)   
+-   Rubber ducky or Raspberry Pi Pico turned in to a Rubber Ducky.  [Rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky) [Raspberry pi pico (I use this.)](https://www.raspberrypi.com/products/raspberry-pi-pico/)  
+-   3D printer.                                                     [3D printer (I use this one, you can use others)](https://store.creality.com/eu/products/ender-3-v3-ke-3d-printer)
 -   
 
 
 ### You will need python 3 and the followring python modules:
 
+## Aditional tutorials, links and resources.
