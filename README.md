@@ -1,4 +1,5 @@
 # **Insomnia** project.
+!()
 
 ## This is a full ransomware attack project that targets Windows 10 & 11
 
@@ -16,7 +17,7 @@
 
 -   Server with public IP, at least one. (Runing on debian.)            
 -   Rubber ducky or Raspberry Pi Pico turned in to a Rubber Ducky.
--   3D printer
+-   3D printer.
 -   
 
 
