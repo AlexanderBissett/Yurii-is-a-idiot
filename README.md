@@ -5,7 +5,7 @@
 
 ### It is composed by 5 elements:
 
--   SNAKE (Stealty Nano Attack Keyboard Emulator)
+-   SNAKE (Stealty Nano Attack Keyboard Emulator) ![](/Img/icons/SNAKE.ico)
 -   RAT   (Remote Administration Tool)
 -   WORM  (Wide Objective Replicator Malware)
 -   CROW  (Covert Ransomware Operation Weapon)
