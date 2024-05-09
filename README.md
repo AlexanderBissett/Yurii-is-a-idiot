@@ -1,5 +1,5 @@
 # **Insomnia** project.
-![](/Miscellaneous/Images/png/Insomnia.png)
+![](Miscellaneous/Images/png/Insomnia.png)
 
 ## This is a full ransomware attack project that targets Windows 10 & 11
 
