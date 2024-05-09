@@ -4,11 +4,11 @@
 
 ### It is composed by 5 elements:
 
-SNAKE (Stealty Nano Attack Keyboard Emulator)
-RAT   (Remote Administration Tool)
-WORM  (Wide Objective Replicator Malware)
-CROW  (Covert Ransomware Operation Weapon)
-OTTER (Operation Terminate Threats, Erase Ransomware)
+- SNAKE (Stealty Nano Attack Keyboard Emulator)
+- RAT   (Remote Administration Tool)
+- WORM  (Wide Objective Replicator Malware)
+- CROW  (Covert Ransomware Operation Weapon)
+- OTTER (Operation Terminate Threats, Erase Ransomware)
 
 ## Requirements
 
