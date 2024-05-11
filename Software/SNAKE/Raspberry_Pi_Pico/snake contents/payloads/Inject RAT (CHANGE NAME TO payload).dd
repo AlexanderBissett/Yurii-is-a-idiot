@@ -8,7 +8,7 @@ STRING  $v=\"${l}:\b.vbs\";
 STRING  Copy $v $u;
 STRING  Copy $r $u
 ENTER
-DELAY 3000
+DELAY 4000
 GUI r
 DELAY 500
 STRING wscript b.vbs

