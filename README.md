@@ -55,6 +55,8 @@
 
 -   [Canva Free Account](https://www.canva.com/en/signup/)
 
+-   [Electrum](https://electrum.org/#download)
+
 ## Mechanics of the attack:
 
 
