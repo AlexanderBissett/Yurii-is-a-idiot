@@ -23,7 +23,9 @@
 
 -   Windows 10 or 11 for development.
 
--   Windows 10 or 11 for testing. (Its best if it is another physical PC)
+-   Windows 10 or 11 for testing. 
+> [!TIP]
+> Its best if it is another physical PC, but if you dont have one try [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
 
 -   [Visual Studio Code](https://code.visualstudio.com/download) 
 
@@ -47,7 +49,7 @@
 
 -   [Blender](https://www.blender.org/download/)
 
--   [Prusa slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
+-   [Prusa slicer](https://github.com/prusa3d/PrusaSlicer/releases)
 
 
 ## Aditional tutorials, links and resources:
