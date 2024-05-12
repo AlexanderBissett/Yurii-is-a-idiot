@@ -57,6 +57,9 @@
 
 ## Mechanics of the attack:
 
+
+
+
 ## Aditional tutorials, links and resources:
 
 -   [Build your Rubber ducky with Raspberry Pi Pico ](https://www.youtube.com/watch?v=e_f9p-_JWZw)
