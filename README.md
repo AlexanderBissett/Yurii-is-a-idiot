@@ -15,11 +15,13 @@
 
 ### You will need several things to execute this attack:
 
--   Server with public IP, at least one.    [VPS (I use this one, you can use others)](https://pq.hosting/en/) (Runing on debian or debian distributions.) 
+-   Server with public IP, at least one. [VPS (I use this one, you can use others)](https://pq.hosting/en/) 
+> [!IMPORTANT]
+> Running on Debian or Debian Distributions.
 
--   Rubber ducky or Raspberry Pi Pico.      [Rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky) or [Raspberry pi pico (I use this.)](https://www.raspberrypi.com/products/raspberry-pi-pico/)  
+-   Rubber ducky or Raspberry Pi Pico. [Rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky) or [Raspberry pi pico (I use this.)](https://www.raspberrypi.com/products/raspberry-pi-pico/)  
 
--   3D printer.                             [3D printer (I use this one, you can use others)](https://store.creality.com/eu/products/ender-3-v3-ke-3d-printer)
+-   3D printer. [3D printer (I use this one, you can use others)](https://store.creality.com/eu/products/ender-3-v3-ke-3d-printer)
 
 -   Windows 10 or 11 for development.
 
@@ -31,7 +33,7 @@
 
 -   [Python 3.x](https://www.python.org/downloads/)
 
-> [!TIP]
+> [!IMPORTANT]
 > When installing python MAKE SURE that you check the box "Add python.exe to PATH" before clicking "Install Now".
 
 -   The following Python modules:
@@ -44,15 +46,22 @@
 
     ```
 
-
 -   [MinGW (for compiling C & C++)](https://sourceforge.net/projects/mingw/)
 
 -   [Blender](https://www.blender.org/download/)
 
 -   [Prusa slicer](https://github.com/prusa3d/PrusaSlicer/releases)
 
+-   [Canva Free Account](https://www.canva.com/en/signup/)
+
+## Mechanics of the attack:
 
 ## Aditional tutorials, links and resources:
 
-[Use "Method 3" to factory reset your Raspberry Pico Pi](https://electrocredible.com/how-to-reset-raspberry-pi-pico-w/)
+-   [Build your Rubber ducky with Raspberry Pi Pico ](https://www.youtube.com/watch?v=e_f9p-_JWZw)
+
+-   [Use "Method 3" to factory reset your Raspberry Pi Pico ](https://electrocredible.com/how-to-reset-raspberry-pi-pico-w/)
+
+-   [Installing MinGW](https://whitgit.whitworth.edu/tutorials/installing_mingw_64)
+
 
