@@ -43,7 +43,6 @@
     pip install pypng
     pip install winshell
     pip install pywin32
-
     ```
 
 -   [MinGW (for compiling C & C++)](https://sourceforge.net/projects/mingw/)
