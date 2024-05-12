@@ -30,7 +30,7 @@
 -   [Python 3.x](https://www.python.org/downloads/)
 
 > [!TIP]
-> When installing python MAKE SURE that you check the box to "Add python.exe to PATH" before clicking "Install Now".
+> When installing python MAKE SURE that you check the box "Add python.exe to PATH" before clicking "Install Now".
 
 -   The following Python modules:
     ```
