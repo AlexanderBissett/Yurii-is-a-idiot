@@ -44,6 +44,8 @@
     pip install winshell
     pip install pywin32
     ```
+> [!TIP]
+> Paste these commands line by line in Windows CMD
 
 -   [MinGW (for compiling C & C++)](https://sourceforge.net/projects/mingw/)
 
