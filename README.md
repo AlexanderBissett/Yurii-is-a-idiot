@@ -15,9 +15,9 @@
 
 ### You will need several things to execute this attack:
 
--   Server with public IP, at least one. [VPS (I use this one, you can use others)](https://pq.hosting/en/) 
 > [!IMPORTANT]
 > Running on Debian or Debian Distributions.
+-   Server with public IP, at least one. [VPS (I use this one, you can use others)](https://pq.hosting/en/) 
 
 -   Rubber ducky or Raspberry Pi Pico. [Rubber ducky](https://shop.hak5.org/products/usb-rubber-ducky) or [Raspberry pi pico (I use this.)](https://www.raspberrypi.com/products/raspberry-pi-pico/)  
 
@@ -25,17 +25,18 @@
 
 -   Windows 10 or 11 for development.
 
--   Windows 10 or 11 for testing. 
 > [!TIP]
 > Its best if it is another physical PC, but if you dont have one try [Virtual Box](https://www.virtualbox.org/wiki/Downloads).
+-   Windows 10 or 11 for testing. 
 
 -   [Visual Studio Code](https://code.visualstudio.com/download) 
 
--   [Python 3.x](https://www.python.org/downloads/)
-
 > [!IMPORTANT]
 > When installing python MAKE SURE that you check the box "Add python.exe to PATH" before clicking "Install Now".
+-   [Python 3.x](https://www.python.org/downloads/)
 
+> [!TIP]
+> Paste these commands line by line in Windows CMD
 -   The following Python modules:
     ```
     pip install auto-py-to-exe
@@ -44,8 +45,6 @@
     pip install winshell
     pip install pywin32
     ```
-> [!TIP]
-> Paste these commands line by line in Windows CMD
 
 -   [MinGW (for compiling C & C++)](https://sourceforge.net/projects/mingw/)
 
