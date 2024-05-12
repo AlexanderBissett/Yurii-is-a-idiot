@@ -36,6 +36,9 @@
     ```
     pip install auto-py-to-exe
     pip install cryptography
+    pip install pypng
+    pip install winshell
+    pip install pywin32
 
     ```
 
