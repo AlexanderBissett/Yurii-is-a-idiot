@@ -21,12 +21,33 @@
 
 -   3D printer.                             [3D printer (I use this one, you can use others)](https://store.creality.com/eu/products/ender-3-v3-ke-3d-printer)
 
--   
+-   Windows 10 or 11 for development.
+
+-   Windows 10 or 11 for testing. (Its best if it is another physical PC)
+
+-   [Visual Studio Code](https://code.visualstudio.com/download) 
+
+-   [Python 3.x](https://www.python.org/downloads/)
+
+> [!TIP]
+> When installing python MAKE SURE that you check the box to "Add python.exe to PATH" before clicking "Install Now".
+
+-   The following Python modules:
+    ```
+    pip install auto-py-to-exe
+    pip install cryptography
+
+    ```
 
 
-### You will need python 3 and the following python modules:
--   
--   
--   
--   
-## Aditional tutorials, links and resources.
+-   [MinGW (for compiling C & C++)](https://sourceforge.net/projects/mingw/)
+
+-   [Blender](https://www.blender.org/download/)
+
+-   [Prusa slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
+
+
+## Aditional tutorials, links and resources:
+
+[Use "Method 3" to factory reset your Raspberry Pico Pi](https://electrocredible.com/how-to-reset-raspberry-pi-pico-w/)
+
