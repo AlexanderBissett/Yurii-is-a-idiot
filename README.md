@@ -59,6 +59,16 @@
 
 ## Mechanics of the attack:
 
+### Response Protocol: Blue.
+
+In case that you detect that the victim, security forces or private cybersecurity companies are trying to:
+
+-   Defend from us. 
+-   Analize the attack.
+-   Investigate the source of the attack. 
+
+You must activate Response Protocol Blue.
+
 ## Aditional tutorials, links and resources:
 
 -   [Build your Rubber ducky with Raspberry Pi Pico ](https://www.youtube.com/watch?v=e_f9p-_JWZw)
