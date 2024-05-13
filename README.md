@@ -61,6 +61,8 @@
 
 ### Response Protocol: Blue.
 
+![](Miscellaneous/Art/Images/icons/nuke.ico)
+
 In case that you detect that the victim, security forces or private cybersecurity companies are trying to:
 
 -   Defend from us. 
