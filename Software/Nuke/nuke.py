@@ -1,14 +1,26 @@
-from ctypes import * 
+import ctypes as ct
 
-def myFmtCallback(command, modifier, arg):
+def FmtCallback(command, modifier, arg):
     print(command)
-    return 1    # TRUE
+    return 1
 
 def format_drive(Drive, Format, Title):
-    fm = windll.LoadLibrary('fmifs.dll')
-    FMT_CB_FUNC = WINFUNCTYPE(c_int, c_int, c_int, c_void_p)
+    fm = ct.windll.LoadLibrary('fmifs.dll')
+    FMT_CB_FUNC = ct.WINFUNCTYPE(
+        ct.c_int,
+        ct.c_int,
+        ct.c_int,
+        ct.c_void_p,
+    )
     FMIFS_UNKNOWN = 0
-    fm.FormatEx(c_wchar_p(Drive), FMIFS_UNKNOWN, c_wchar_p(Format),
-                c_wchar_p(Title), True, c_int(0), FMT_CB_FUNC(myFmtCallback))
-    
-format_drive('F:\\', 'NTFS', 'USBDrive')
+    fm.FormatEx(
+        ct.c_wchar_p(Drive),
+        FMIFS_UNKNOWN,
+        ct.c_wchar_p(Format),
+        ct.c_wchar_p(Title),
+        True,
+        ct.c_int(0),
+        FMT_CB_FUNC(FmtCallback),
+    )
+
+format_drive('E:\\', 'NTFS', 'Wiped')
