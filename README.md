@@ -59,7 +59,7 @@
 
 ## Mechanics of the attack:
 
-### Response Protocol: Blue.
+### Response Protocol Blue.
 
 ![](Miscellaneous/Art/Images/icons/nuke.ico)
 
