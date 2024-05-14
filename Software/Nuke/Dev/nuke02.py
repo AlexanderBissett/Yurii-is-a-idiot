@@ -29,10 +29,6 @@ advapi32 = ctypes.windll.advapi32
 # InitiateSystemShutdown.restype = BOOL
 
 
-def RunPwsh(code):
-    p = subprocess.run(['powershell', code], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, shell=True)
-    return p.stdout.decode()
-
 def IsAdmin():
     """Check if the current process has administrative privileges."""
     admin_sid = ctypes.windll.shell32.AdministratorsSid
@@ -46,9 +42,6 @@ def RunAsAdmin():
         ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
         sys.exit()
 
-def Is64Bit():
-    """Check if the operating system is 64-bit."""
-    return platform.machine().endswith('64')
 
 def IsOnline():
     """Check if the system is online."""
