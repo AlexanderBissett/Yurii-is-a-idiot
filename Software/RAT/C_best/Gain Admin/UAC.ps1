@@ -1,4 +1,4 @@
-function Bypass-UAC{
+function Insomnia{
 	[CmdletBinding()]
 	param([string]$payload='R.exe')
 
@@ -41,4 +41,4 @@ function Bypass-UAC{
 		}
 	}
 }
-Bypass-UAC 'R.exe'
+Insomnia 'R.exe'
