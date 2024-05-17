@@ -42,11 +42,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "ChatApp\\MVVM\\Model\\UserModel.cs",
               "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\MVVM\\Model\\UserModel.cs",
               "RelativeToolTip": "ChatApp\\MVVM\\Model\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T16:19:50.232Z",
               "EditorCaption": ""
