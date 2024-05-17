@@ -1,0 +1,15 @@
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.exe
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.dll
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.dll
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+D:\INTERVIEW\ChatApp\ChatApp\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
