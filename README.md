@@ -80,6 +80,13 @@ You must activate Response Protocol Blue.
 
 ## Aditional tutorials, links and resources:
 
+#### Creating a user in Debian distributions:
+```
+sudo useradd -m jane
+passwd jane
+usermod -aG sudo jane
+```
+
 -   [Build your Rubber ducky with Raspberry Pi Pico ](https://www.youtube.com/watch?v=e_f9p-_JWZw)
 
 -   [Use "Method 3" to factory reset your Raspberry Pi Pico ](https://electrocredible.com/how-to-reset-raspberry-pi-pico-w/)
