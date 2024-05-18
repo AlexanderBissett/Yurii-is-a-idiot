@@ -3,7 +3,7 @@
 
 ## This is a full ransomware attack project that targets Windows 10 & 11
 
-### It is composed by 5 elements:
+### It is mainly composed by 5 elements:
 
 -   SNAKE (Stealty Nano Attack Keyboard Emulator)
 -   RAT   (Remote Administration Tool)
@@ -11,6 +11,11 @@
 -   CROW  (Covert Ransomware Operation Weapon)
 -   OTTER (Operation Terminate Threats, Erase Ransomware)
 
+#### Plus these others:
+
+-   VIPER (Virtual Interactive Program for Engaging Recipients)
+-   Nuke
+ 
 ## Requirements
 
 ### You will need several things to execute this attack:
