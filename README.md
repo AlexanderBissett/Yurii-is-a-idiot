@@ -36,6 +36,8 @@
 
 -   [Visual Studio Code](https://code.visualstudio.com/download) 
 
+-   [Visual Studio](https://visualstudio.microsoft.com/en/downloads/)
+
 > [!IMPORTANT]
 > When installing python MAKE SURE that you check the box "Add python.exe to PATH" before clicking "Install Now".
 -   [Python 3.x](https://www.python.org/downloads/)
