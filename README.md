@@ -44,7 +44,7 @@
 
 > [!TIP]
 > Paste these commands line by line in Windows CMD
--   The following Python modules:
+-   The following Python modules in your main developer windows:
     ```
     pip install auto-py-to-exe
     pip install cryptography

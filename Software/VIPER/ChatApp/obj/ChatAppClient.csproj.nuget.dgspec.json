@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\ChatAppClient.csproj": {}
+    "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatAppClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\ChatAppClient.csproj": {
+    "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatAppClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\ChatAppClient.csproj",
+        "projectUniqueName": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatAppClient.csproj",
         "projectName": "ChatAppClient",
-        "projectPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\ChatAppClient.csproj",
+        "projectPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatAppClient.csproj",
         "packagesPath": "C:\\Users\\udgo1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\obj\\",
+        "outputPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

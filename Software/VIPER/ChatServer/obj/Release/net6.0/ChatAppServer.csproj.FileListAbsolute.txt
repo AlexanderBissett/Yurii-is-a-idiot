@@ -1,0 +1,15 @@
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\bin\Release\net6.0\ChatAppServer.exe
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\bin\Release\net6.0\ChatAppServer.deps.json
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\bin\Release\net6.0\ChatAppServer.runtimeconfig.json
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\bin\Release\net6.0\ChatAppServer.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\bin\Release\net6.0\ChatAppServer.pdb
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.AssemblyInfoInputs.cache
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.AssemblyInfo.cs
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.sourcelink.json
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\refint\ChatAppServer.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.pdb
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ChatAppServer.genruntimeconfig.cache
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatServer\obj\Release\net6.0\ref\ChatAppServer.dll

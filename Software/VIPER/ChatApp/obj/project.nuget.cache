@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHWDFkP0L/ALj1J0FOo2ra3AkBLAivT/QAhTTgdIaiIAP0VRRQBMqFKG7DOTYls9/fFqUbQZrPzNsfZy73CRFw==",
+  "dgSpecHash": "QJbdweEW8whnYhohywQwBEN0hU0L7ljb3o94mk6Pjit099pmfWpS+2aLgD5X2oriq0vnghivJIwfM965kHf6YA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\Chat\\ChatApp\\ChatApp\\ChatAppClient.csproj",
+  "projectFilePath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatAppClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
     "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",

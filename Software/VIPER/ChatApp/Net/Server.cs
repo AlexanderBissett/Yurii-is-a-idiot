@@ -28,7 +28,7 @@ namespace ChatAppClient.Net
             if (!_client.Connected)
             {
                 // put here local address and a free port
-                _client.Connect("127.0.0.1", 7891);
+                _client.Connect("93.93.112.211", 87);
                 // if we get a connection, not in constructor
                 PacketReader = new PacketReader(_client.GetStream());
 
