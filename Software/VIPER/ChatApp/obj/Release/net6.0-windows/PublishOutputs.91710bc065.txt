@@ -1,5 +1,0 @@
-C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatAppClient.exe
-C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatAppClient.dll
-C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatAppClient.deps.json
-C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatAppClient.runtimeconfig.json
-C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatAppClient.pdb

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "05MeRZXIlmWNBjrPJmlGjeUM5SM38JJo4YqLxrHLPdoZ2XgYrkeaGoLGgc1ejnTamrZnThLc1T2lRymQAOLJtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatServer\\ChatAppServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.30\\microsoft.netcore.app.runtime.linux-x64.6.0.30.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.30\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.30.nupkg.sha512",
+    "C:\\Users\\udgo1\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.30\\microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

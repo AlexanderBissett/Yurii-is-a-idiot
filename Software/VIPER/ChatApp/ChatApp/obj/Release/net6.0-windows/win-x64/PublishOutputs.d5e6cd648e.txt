@@ -1,0 +1,7 @@
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\ChatAppClient.pdb
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\D3DCompiler_47_cor3.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\PenImc_cor3.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\PresentationNative_cor3.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\vcruntime140_cor3.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\wpfgfx_cor3.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\Compiled\A1\ChatAppClient.exe
