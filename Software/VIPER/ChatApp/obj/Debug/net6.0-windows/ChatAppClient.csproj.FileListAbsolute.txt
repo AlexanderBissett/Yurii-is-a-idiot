@@ -64,3 +64,4 @@ C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Soft
 C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatApp\obj\Debug\net6.0-windows\ChatAppClient.pdb
 C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatApp\obj\Debug\net6.0-windows\ChatAppClient.genruntimeconfig.cache
 C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatApp\obj\Debug\net6.0-windows\ref\ChatAppClient.dll
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\VIPER\ChatApp\obj\Debug\net6.0-windows\ChatAppClient_Content.g.cs

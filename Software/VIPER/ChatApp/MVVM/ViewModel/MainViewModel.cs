@@ -29,15 +29,18 @@ namespace ChatAppClient.MVVM.ViewModel
             Users = new ObservableCollection<UserModel>();
             Messages = new ObservableCollection<string>();
 
+            UserName = "Victim";
+
             _server = new Server();
             // += attaching event handler
             _server.connectedEvent += UserConnected;
             _server.messageReceivedEvent += MessageReceived;
             _server.userDisconnectedEvent += RemoveUser;
-            this.ConnectToServerCommand = new RelayCommand(
-                    obj => _server.ConnectToServer(UserName),
-                    obj => !string.IsNullOrEmpty(UserName)
-                );
+            _server.ConnectToServer(UserName);
+            //this.ConnectToServerCommand = new RelayCommand(
+                    //obj => _server.ConnectToServer(UserName)
+                    //,obj => !string.IsNullOrEmpty(UserName)
+                //);
             this.SendMessageCommand = new RelayCommand(
                 //obj => _server.ConnectToServer(UserName),
                 obj => _server.SendMessageToServer(Message),
