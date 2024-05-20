@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|c:\\users\\udgo1\\onedrive\\escritorio\\tech\\codigo\\rwrw\\github\\yurii-is-a-idiot\\software\\viper\\chatapp\\chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|solutionrelative:chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|c:\\users\\udgo1\\onedrive\\escritorio\\tech\\codigo\\rwrw\\github\\yurii-is-a-idiot\\software\\viper\\chatapp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|solutionrelative:chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|c:\\users\\udgo1\\onedrive\\escritorio\\tech\\codigo\\rwrw\\github\\yurii-is-a-idiot\\software\\viper\\chatapp\\chatapp\\chatappclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|solutionrelative:chatapp\\chatappclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B2A6268-C6AE-4193-8FA6-454BF0C820BD}|ChatApp\\ChatAppClient.csproj|c:\\users\\udgo1\\onedrive\\escritorio\\tech\\codigo\\rwrw\\github\\yurii-is-a-idiot\\software\\viper\\chatapp\\chatapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,59 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAwC4AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:42:46.851Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\App.xaml",
               "RelativeDocumentMoniker": "ChatApp\\App.xaml",
               "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\App.xaml",
               "RelativeToolTip": "ChatApp\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T13:38:09.224Z",
+              "WhenOpened": "2024-05-20T14:53:22.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatApp\\MVVM\\View\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
               "RelativeToolTip": "ChatApp\\MVVM\\View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T13:17:55.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChatAppClient",
-              "DocumentMoniker": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\ChatAppClient.csproj",
-              "RelativeDocumentMoniker": "ChatApp\\ChatAppClient.csproj",
-              "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\VIPER\\ChatApp\\ChatApp\\ChatAppClient.csproj",
-              "RelativeToolTip": "ChatApp\\ChatAppClient.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-20T13:17:34.484Z",
+              "WhenOpened": "2024-05-20T14:52:57.328Z",
               "EditorCaption": ""
             }
           ]

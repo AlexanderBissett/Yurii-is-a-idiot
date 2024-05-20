@@ -9,35 +9,42 @@
         Title="VIPER"
         Height="475"
         Width="820"
-        Background="#303030"
+        Background="#660000"
         >
-       
-    
+
+
 
     <Window.DataContext>
         <viewmodel:MainViewModel />
     </Window.DataContext>
 
     <Grid>
-        
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200" />
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
-        
+
         <DockPanel>
-            
+
             <TextBox Height="25"
-                     Background="#303030"
                      DockPanel.Dock="Top"
+                      Background="#660000"
+                      FontSize="13 px"
+                      FontFamily="OCR-A BT"
+                      Foreground="#FFFFFF"
                      Text="{Binding UserName,
-                        UpdateSourceTrigger=PropertyChanged}" />
-            
-             
-            
-            
-            <ListView ItemsSource="{Binding Users}"
-                      Background="#303030">
+                        UpdateSourceTrigger=PropertyChanged}" TextChanged="TextBox_TextChanged" />
+
+
+
+
+            <ListView ItemsSource="{Binding Users}" 
+                      Background="#660000"
+                      FontSize="13 px"
+                      FontFamily="OCR-A BT"
+                      Foreground="#FFFFFF"
+                      SelectionChanged="ListView_SelectionChanged">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextBlock Text="{Binding UserName}" />
@@ -48,20 +55,31 @@
 
         <StackPanel Grid.Column="1">
             <ListView Height="380"
-                      Background="#303030"
+                      Background="#660000"
+                      FontSize="13 px"
+                      FontFamily="OCR-A BT"
+                      Foreground="#FFFFFF"
                       ItemsSource="{Binding Messages}"/>
-            <StackPanel Orientation="Horizontal"
-                        Background="#303030">
+            <StackPanel Orientation="Horizontal">
                 <TextBox Height="55"
                          Width="545"
                          VerticalContentAlignment="Center"
-                         Background="#303030"
+                         Background="#660000"
+                         FontSize="13 px"
+                         FontFamily="OCR-A BT"
+                         Foreground="#FFFFFF"
                          Text="{Binding Message,
                          UpdateSourceTrigger=PropertyChanged}" />
                 <Button Width="55"
-                        Content="Send"
-                        Background="#303030"
-                        Command="{Binding SendMessageCommand}" IsEnabled="True" />
+                        Content="Enviar"
+                        Background="#660000"
+                        FontSize="13 px"
+                        FontFamily="OCR-A BT"
+                        Command="{Binding SendMessageCommand}" >
+                    <Button.Foreground>
+                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}"/>
+                    </Button.Foreground>
+                </Button>
             </StackPanel>
         </StackPanel>
 
