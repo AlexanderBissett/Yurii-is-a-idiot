@@ -1,0 +1,417 @@
+﻿  Admin.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(31,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(45,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(43,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(44,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(57,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(55,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(56,1): error C2146: syntax error: missing ';' before identifier 'HANDLE'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(74,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(72,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(73,1): error C2146: syntax error: missing ';' before identifier 'HANDLE'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(89,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(87,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(88,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(100,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(98,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(99,1): error C2146: syntax error: missing ';' before identifier 'HANDLE'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(116,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(114,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(115,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(129,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(127,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(128,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(141,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(139,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(140,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(152,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(150,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(151,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(168,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Admin.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(166,1): error C2086: 'int WINSTORAGEAPI': redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(30,1):
+  see declaration of 'WINSTORAGEAPI'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapifromapp.h(167,1): error C2146: syntax error: missing ';' before identifier 'BOOL'
+  (compiling source file 'Admin.cpp')
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(66,1): warning C4005: 'STATUS_WAIT_0': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2549,1):
+  see previous definition of 'STATUS_WAIT_0'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(218,1): warning C4005: 'STATUS_ABANDONED_WAIT_0': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2550,1):
+  see previous definition of 'STATUS_ABANDONED_WAIT_0'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(241,1): warning C4005: 'STATUS_USER_APC': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2551,1):
+  see previous definition of 'STATUS_USER_APC'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(268,1): warning C4005: 'STATUS_TIMEOUT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2552,1):
+  see previous definition of 'STATUS_TIMEOUT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(277,1): warning C4005: 'STATUS_PENDING': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2553,1):
+  see previous definition of 'STATUS_PENDING'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(706,1): warning C4005: 'DBG_EXCEPTION_HANDLED': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2554,1):
+  see previous definition of 'DBG_EXCEPTION_HANDLED'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(715,1): warning C4005: 'DBG_CONTINUE': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2555,1):
+  see previous definition of 'DBG_CONTINUE'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(790,1): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2556,1):
+  see previous definition of 'STATUS_SEGMENT_NOTIFICATION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(953,1): warning C4005: 'STATUS_FATAL_APP_EXIT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2557,1):
+  see previous definition of 'STATUS_FATAL_APP_EXIT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1264,1): warning C4005: 'DBG_REPLY_LATER': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2558,1):
+  see previous definition of 'DBG_REPLY_LATER'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1282,1): warning C4005: 'DBG_TERMINATE_THREAD': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2559,1):
+  see previous definition of 'DBG_TERMINATE_THREAD'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1291,1): warning C4005: 'DBG_TERMINATE_PROCESS': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2560,1):
+  see previous definition of 'DBG_TERMINATE_PROCESS'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1300,1): warning C4005: 'DBG_CONTROL_C': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2561,1):
+  see previous definition of 'DBG_CONTROL_C'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1309,1): warning C4005: 'DBG_PRINTEXCEPTION_C': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2562,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_C'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1318,1): warning C4005: 'DBG_RIPEXCEPTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2563,1):
+  see previous definition of 'DBG_RIPEXCEPTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1327,1): warning C4005: 'DBG_CONTROL_BREAK': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2564,1):
+  see previous definition of 'DBG_CONTROL_BREAK'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1336,1): warning C4005: 'DBG_COMMAND_EXCEPTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2565,1):
+  see previous definition of 'DBG_COMMAND_EXCEPTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1345,1): warning C4005: 'DBG_PRINTEXCEPTION_WIDE_C': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2566,1):
+  see previous definition of 'DBG_PRINTEXCEPTION_WIDE_C'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1377,1): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2567,1):
+  see previous definition of 'STATUS_GUARD_PAGE_VIOLATION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1388,1): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2568,1):
+  see previous definition of 'STATUS_DATATYPE_MISALIGNMENT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1399,1): warning C4005: 'STATUS_BREAKPOINT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2569,1):
+  see previous definition of 'STATUS_BREAKPOINT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1410,1): warning C4005: 'STATUS_SINGLE_STEP': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2570,1):
+  see previous definition of 'STATUS_SINGLE_STEP'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1713,1): warning C4005: 'STATUS_LONGJUMP': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2571,1):
+  see previous definition of 'STATUS_LONGJUMP'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1740,1): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2572,1):
+  see previous definition of 'STATUS_UNWIND_CONSOLIDATE'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1826,1): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2573,1):
+  see previous definition of 'DBG_EXCEPTION_NOT_HANDLED'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1955,1): warning C4005: 'STATUS_ACCESS_VIOLATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2574,1):
+  see previous definition of 'STATUS_ACCESS_VIOLATION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1964,1): warning C4005: 'STATUS_IN_PAGE_ERROR': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2575,1):
+  see previous definition of 'STATUS_IN_PAGE_ERROR'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(1982,1): warning C4005: 'STATUS_INVALID_HANDLE': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2576,1):
+  see previous definition of 'STATUS_INVALID_HANDLE'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(2027,1): warning C4005: 'STATUS_INVALID_PARAMETER': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2577,1):
+  see previous definition of 'STATUS_INVALID_PARAMETER'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(2127,1): warning C4005: 'STATUS_NO_MEMORY': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2578,1):
+  see previous definition of 'STATUS_NO_MEMORY'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(2184,1): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2579,1):
+  see previous definition of 'STATUS_ILLEGAL_INSTRUCTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(2265,1): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2580,1):
+  see previous definition of 'STATUS_NONCONTINUABLE_EXCEPTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(2274,1): warning C4005: 'STATUS_INVALID_DISPOSITION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2581,1):
+  see previous definition of 'STATUS_INVALID_DISPOSITION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3207,1): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2582,1):
+  see previous definition of 'STATUS_ARRAY_BOUNDS_EXCEEDED'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3217,1): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2583,1):
+  see previous definition of 'STATUS_FLOAT_DENORMAL_OPERAND'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3227,1): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2584,1):
+  see previous definition of 'STATUS_FLOAT_DIVIDE_BY_ZERO'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3237,1): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2585,1):
+  see previous definition of 'STATUS_FLOAT_INEXACT_RESULT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3247,1): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2586,1):
+  see previous definition of 'STATUS_FLOAT_INVALID_OPERATION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3257,1): warning C4005: 'STATUS_FLOAT_OVERFLOW': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2587,1):
+  see previous definition of 'STATUS_FLOAT_OVERFLOW'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3267,1): warning C4005: 'STATUS_FLOAT_STACK_CHECK': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2588,1):
+  see previous definition of 'STATUS_FLOAT_STACK_CHECK'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3277,1): warning C4005: 'STATUS_FLOAT_UNDERFLOW': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2589,1):
+  see previous definition of 'STATUS_FLOAT_UNDERFLOW'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3287,1): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2590,1):
+  see previous definition of 'STATUS_INTEGER_DIVIDE_BY_ZERO'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3297,1): warning C4005: 'STATUS_INTEGER_OVERFLOW': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2591,1):
+  see previous definition of 'STATUS_INTEGER_OVERFLOW'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(3307,1): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2592,1):
+  see previous definition of 'STATUS_PRIVILEGED_INSTRUCTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4253,1): warning C4005: 'STATUS_STACK_OVERFLOW': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2593,1):
+  see previous definition of 'STATUS_STACK_OVERFLOW'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4770,1): warning C4005: 'STATUS_DLL_NOT_FOUND': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2594,1):
+  see previous definition of 'STATUS_DLL_NOT_FOUND'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4799,1): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2595,1):
+  see previous definition of 'STATUS_ORDINAL_NOT_FOUND'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4809,1): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2596,1):
+  see previous definition of 'STATUS_ENTRYPOINT_NOT_FOUND'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4819,1): warning C4005: 'STATUS_CONTROL_C_EXIT': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2597,1):
+  see previous definition of 'STATUS_CONTROL_C_EXIT'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(4897,1): warning C4005: 'STATUS_DLL_INIT_FAILED': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2598,1):
+  see previous definition of 'STATUS_DLL_INIT_FAILED'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(7416,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2600,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_FAULTS'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(7426,1): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2601,1):
+  see previous definition of 'STATUS_FLOAT_MULTIPLE_TRAPS'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(7558,1): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2602,1):
+  see previous definition of 'STATUS_REG_NAT_CONSUMPTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(8532,1): warning C4005: 'STATUS_HEAP_CORRUPTION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2603,1):
+  see previous definition of 'STATUS_HEAP_CORRUPTION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(8760,1): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2604,1):
+  see previous definition of 'STATUS_STACK_BUFFER_OVERRUN'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(8887,1): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2605,1):
+  see previous definition of 'STATUS_INVALID_CRUNTIME_PARAMETER'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(8950,1): warning C4005: 'STATUS_ASSERTION_FAILURE': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2606,1):
+  see previous definition of 'STATUS_ASSERTION_FAILURE'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(10039,1): warning C4005: 'STATUS_ALREADY_REGISTERED': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2610,1):
+  see previous definition of 'STATUS_ALREADY_REGISTERED'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(13123,1): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2612,1):
+  see previous definition of 'STATUS_SXS_EARLY_DEACTIVATION'
+  
+C:\Users\udgo1\OneDrive\Escritorio\Tech\codigo\rwrw\github\Yurii-is-a-idiot\Software\RAT\C_best\Gain_Admin\sexy\Elevate\Admin\headers\ntstatus.h(13132,1): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': macro redefinition
+  (compiling source file 'Admin.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2613,1):
+  see previous definition of 'STATUS_SXS_INVALID_DEACTIVATION'
+  
